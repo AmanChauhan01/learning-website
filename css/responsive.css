@@ -1,0 +1,106 @@
+@media screen and (max-width:1200px) {
+    .wrap3 h1{font-size: 66px;}
+    .wrap4{top:-260px}
+    .wrap8 .wrapper i:last-child{top: -70px;}
+    .wrap8 .wrapper i:first-child{top: -70px;}
+    .wrap11 .footer-box .col-md-3 .cont{font-size: 14px;}
+    .courses-wrap3 h2{padding-top: 380px;}
+}
+@media screen and (max-width:900px) {
+    .wrap2 .navbar-nav{margin-top: 20px;}
+    .wrap3 h1{font-size: 57px;}
+    .wrap4{top: 0px; padding-top: 80px;}
+    .wrap4 .row{display: block;}
+    .wrap4 .row .col-md-4{width: 100%;}
+    .wrap4 .row .col-md-4 .box{margin-bottom: 30px;}
+    .wrap5 h2:before{top: 80px;}
+    .wrap5 h2{padding-top: 120px;}
+    .wrap5 .main-row{display: block;}
+    .wrap5 .main-row .col-md-4{width: 100%;}
+    .wrap5 .row .col-md-4 .box{margin-bottom: 50px;}
+    .wrap5 .row .col-md-4 .box .img{height: 400px;}
+    .wrap6 .row{display: block;}
+    .wrap6 .row .col-md-6{width: 100%;}
+    .wrap6 .row .col-md-6 .none{display: none;}
+    .wrap7 .row{display: block;}
+    .wrap7 .row .col-md-4{width: 100%;}
+    .wrap7 .row .col-md-4 .box{margin-bottom: 15px;}
+    .wrap8 .p1 br{display: none;} 
+    .wrap9 .row{display: block;}
+    /* .wrap9{padding: 10px;} */
+    .wrap9 .row .col-md-5{width: 100%; text-align: center; padding-top: 10px;}
+    .wrap9 .row .col-md-7{width: 100%;}
+    .wrap10 .row{display: block;}
+    .wrap10 .row .col-md-7{width: 100%;}
+    .wrap10 .row .col-md-3{width: 100%;}
+    .wrap10 .row .col-md-3 img{width: 100%; height: 350px;}
+    .wrap10 .row .col-md-2 .box {margin-bottom: 22px;}
+    .wrap10 .row .col-md-7 .box1 .p2 {margin-bottom: 24px;}
+    .wrap11 .b1{width: 35%;}
+    .wrap11 .b2{width: 35%;}
+    .wrap11 .b3{width: 30%;}
+    .wrap11 .b4{width: 100%;}
+
+    .courses-wrap3{height: 60vh;}
+    .courses-wrap3 h2{padding-top: 350px;}
+    .courses-wrap4 h2{padding-top: 10px;}
+}
+@media screen and (max-width:767px) {
+    .wrap2{left: 53px;}
+    .wrap3 .hero-slider .carousel-cell .inner{top: 73%;}
+    .wrap3 h1{font-size: 45px;}
+    .wrap5 .row .col-md-8{width: 66%;}
+    .wrap5 .row .col-md-2{width: 20%;}
+    .wrap5 .row .colo{width: 12%;}
+    .wrap5 .row .col-md-4 .inner-box .row .col-md-2 img {margin-top: 5px;}
+    .wrap5 .row .col-md-4 .box .img{height: 300px;}
+    .wrap6 .yellow{padding: 15px;}
+    .wrap8 .row .col-md-6{width: 50%;}
+    .wrap9 h2{font-size: 40px;}
+    .wrap9 .p2{font-size: 17px;}
+    .wrap9 .col-md-7 .p3{font-size: 18px;}
+    .wrap10 .row .col-md-2{width: 33%;}
+    .wrap10 .row .col-md-3 img{height: 250px;}
+    .wrap11 .b1{width: 50%;}
+    .wrap11 .b2{width: 50%;}
+    .wrap11 .b3{width: 50%;}
+    .wrap11 .b4{width: 50%;}
+    .wrap11 .cite-wrap{text-align: center;}
+    .wrap11 .cite-wrap .icons{text-align: center;}
+
+    .courses-wrap3{height: 100vh;}
+    .courses-wrap3 h2{padding-top: 200px;}
+}
+@media screen and (max-width:400px) {
+    .wrap2{width: 92%; left: 16px;}
+    .wrap2 .navbar{padding: 7px;}
+    .wrap2 a span{font-size: 21px;}
+    .wrap3 h1{font-size: 36px;}
+    .wrap3 .hero-slider {height: 64vh;}
+    .wrap3 .hero-slider .carousel-cell .inner {top: 70%;}
+    .wrap4 .box{padding: 39px 20px 39px 20px;}
+    .wrap5 .row .col-md-8{width: 63%;}
+    .wrap5 .row .colo{width: 14%;}
+    .wrap6 .yellow .box h2 br{display: none;}
+    .wrap6 .yellow .box h2 {font-size: 26px;}
+    .wrap6 .yellow .box .p1 br{display: none;}
+    .wrap6 form input{width: 100%;}
+    .wrap6 .image .content {padding-left: 14px; padding-right: 14px;}
+    .wrap6 .form-floating>.form-control{width: 80%;}
+    .wrap6 .image .content button{width: 80%; margin-left: -85px;}
+    .wrap6 .image .content h2{margin-left: -70px;}
+    .wrap8 .cards .img img{height: 200px;}
+    .wrap8 .wrapper i:last-child {top: -56px;}
+    .wrap8 .wrapper i:first-child {top: -56px;}
+    .wrap9 h2{font-size: 30px;}
+    .wrap9 .col-md-7 .p3{font-size: 16px; margin-bottom: 36px;}
+    .wrap9 .col-md-7{margin-top: 70px;}
+    .wrap10 .row .col-md-2{width: 47%;}
+    .wrap11 .b1{width: 100%;}
+    .wrap11 .b2{width: 50%;}
+    .wrap11 .b3{width: 50%;}
+    .wrap11 .b4{width: 100%;}
+
+    .courses-wrap3{height: 80vh;}
+    .courses-wrap3 h2{padding-top: 250px;}
+}
